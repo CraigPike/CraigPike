@@ -38,7 +38,10 @@ Hi there, I'm Craig! I'm learning to code to become a Data Analyst, this page is
 
 ---
 
+### My Projects
+ 
 
+---
 
 <!--
 **CraigPike/CraigPike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
